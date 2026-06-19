@@ -1,1 +1,1 @@
-This is a file
+Application version 1.0
